@@ -1,6 +1,6 @@
 
 const stringFilter = (input:string) => {
-    return "hey there";
+    return "hello world";
 }
 
 export default stringFilter;
